@@ -1,7 +1,8 @@
 # iOS-Design-Patterns
 
+![](https://blog-andy0570-1256077835.cos.ap-shanghai.myqcloud.com/site_Images/054933.png)
 
-![iOS 设计模式](https://blog-andy0570-1256077835.cos.ap-shanghai.myqcloud.com/site_Images/055452.png)
+
 
 
 ## 设计模式的定义
@@ -74,15 +75,16 @@
 
 
 
-## 参考
+## 设计模式参考
 
-### 设计模式
-
+* [Amazon: Head First 设计模式](https://www.amazon.cn/Head-First%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%BC%97%E9%87%8C%E6%9B%BC/dp/B0011FBU34/ref=sr_1_1?ie=UTF8&qid=1464418055&sr=8-1&keywords=head+first)
+* [Apple: Cocoa Design Patterns](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/CocoaDesignPatterns/CocoaDesignPatterns.html#//apple_ref/doc/uid/TP40002974-CH6-SW6)
 * [Design patterns for humans 中文版](https://www.guanguans.cn/design-patterns-for-humans-cn/#-prototype)
 * [设计模式](https://refactoringguru.cn/design-patterns)
 * [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html#)
 * [史上最全设计模式导学目录（完整版）](https://blog.csdn.net/lovelion/article/details/17517213)
-* [GitHub: Trip-to-iOS-Design-Patterns](https://github.com/skyming/Trip-to-iOS-Design-Patterns) 
+* [GitHub: Design Patterns implemented in Swift 5.0](https://github.com/ochococo/Design-Patterns-In-Swift)
+* [GitHub: Trip-to-iOS-Design-Patterns](https://github.com/skyming/Trip-to-iOS-Design-Patterns)
 * [iOS 中的 21 种设计模式](https://www.jianshu.com/p/6b302c7fe987)
 * [iOS 最实用的 13 种设计模式（全部有 github 代码）](https://www.jianshu.com/p/9c4a219e9cf9)
 * [iOS 设计模式详解 @Swift](https://juejin.im/post/5b827f0df265da43412875dd)
@@ -91,10 +93,119 @@
 * [iOS 设计模式 --- 命令模式](https://my.oschina.net/fuzheng/blog/492088)
 * [设计模式六大原则](https://www.jianshu.com/p/285dbd8cbd2a)
 * [iOS 中的设计模式 开篇](https://a1049145827.github.io/2018/03/28/iOS中的设计模式-开篇/)
+* [iOS设计模式之观察者模式](http://blog.jobbole.com/55505/)
+* [iOS设计模式反思之单例模式的进化-非翻译](http://blog.jobbole.com/56439/)
+* [关于 23 种设计模式的有趣见解-非翻译](http://blog.jobbole.com/20496/)
+
+
+### raywenderlich 系列文章
+
+* [raywenderlich: Design Patterns on iOS using Swift – Part 1/2](https://www.raywenderlich.com/477-design-patterns-on-ios-using-swift-part-1-2)
+* [raywenderlich: Design Patterns on iOS using Swift – Part 2/2](https://www.raywenderlich.com/476-design-patterns-on-ios-using-swift-part-2-2)
+
+
+## 架构参考
+
+> 不管我们决定使用什么样的架构，最终的目标都是使测试变得更简单。因此写代码之前我们要根据这一原则进行思考。我们强调如何直观的进行责任分离。此外，保持这种思维模式，架构的设计就会变得很清晰、合理，我们就不会再陷入琐碎的细节。
+
+### MVC
+
+* [A Better MVC](https://davedelong.com/blog/2017/11/06/a-better-mvc-part-1-the-problems/)
 
 
 
-### 架构
+### MVVM
 
+* [Design Patterns by Tutorials: MVVM @raywenderlich](https://www.raywenderlich.com/192471/design-patterns-by-tutorials-mvvm)
+* [OBJC中国：MVVM 介绍](https://www.objccn.io/issue-13-1/)
+* [不再对 MVVM 感到绝望](https://juejin.im/post/5a782d0d5188257a856f1dd7)
+* [MVVMFramework](https://github.com/lovemo/MVVMFramework)
+
+
+### 其它
+
+* [iOS Architecture Patterns Demystifying MVC, MVP, MVVM and VIPER](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
+* [iOS 架构模式 - 简述 MVC, MVP, MVVM 和 VIPER (译)](https://segmentfault.com/a/1190000004680605)
+* [PPT: 5 iOS Architectures in 5 minutes](http://slides.com/borlov/arch/fullscreen#/)
+* [Blurring the Lines Between MVVM and VIPER](https://medium.com/developermind/blurring-the-lines-between-mvvm-and-viper-dcb3dc9815ac)
+* [iOS应用架构现状分析](http://mrpeak.cn/blog/ios-arch/)
+* [iOS 架构模式——MV(X) 的理解与实战](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652559742&idx=1&sn=3d07af5249de773bd7553ba2b0a2e642&chksm=bcd29c708ba51566d51ec2004142a70d17cfebb49ac7ff9037339bba41a212c43919c43c3716&mpshare=1&scene=1&srcid=0414so4GOyUBEVNGRMYe444d%23rd)
+* [iOS 架构补完计划 -- 浅谈 MVC 及其衍生架构模式 (附简易图解)](https://www.jianshu.com/p/004075a47ed6#comments)
 * [medium: iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 * [唯一可行的 iOS 架构](https://juejin.im/post/5e435345518825493c7b4b43)
+* [objccn - 架构 - 强烈推荐](http://objccn.io/issue-13/)
+* [怎么面试架构师](http://www.cocoachina.com/programmer/20150617/12170.html)
+* [EasyIOS](https://github.com/zhuchaowe/EasyIOS)
+* [移动App架构设计](https://github.com/uxyheaven/NativeAppFrameworkDesign)
+* [探索 Swift 中的 MVC-N 模式](https://realm.io/cn/news/slug-marcus-zarra-exploring-mvcn-swift/?utm_source=tuicool&utm_medium=referral)
+
+
+### InfoQ - iOS应用架构谈
+
+* [iOS应用架构谈（一）：架构设计的方法论](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
+* [iOS应用架构谈（二）：View层的组织和调用方案](http://casatwy.com/iosying-yong-jia-gou-tan-viewceng-de-zu-zhi-he-diao-yong-fang-an.html)
+* [iOS应用架构谈（三）：网络层设计方案](http://casatwy.com/iosying-yong-jia-gou-tan-wang-luo-ceng-she-ji-fang-an.html)
+* [iOS应用架构谈（四）：本地持久化方案及动态部署](http://casatwy.com/iosying-yong-jia-gou-tan-ben-di-chi-jiu-hua-fang-an-ji-dong-tai-bu-shu.html)
+* [iOS应用架构谈（五）：组件化方案](http://casatwy.com/iOS-Modulization.html)
+
+### App 架构设计实践
+* [饿了么移动APP的架构演进](https://www.sdk.cn/news/2023)
+* [滴滴iOS客户端的架构演变之路](http://www.infoq.com/cn/news/2016/03/lixianhui-interview)
+* [携程移动App架构优化之旅](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=403412672&idx=1&sn=2cceb873ee4640830aad3261ae177df5&scene=0&key=710a5d99946419d9ba63d1d480eb3f0c2d49be9d244f34e460226b2f4caaa02565fc4d16af8f64ca79085f4db276e89f&ascene=0&uin=MjY1NTg0NzMyMQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.11.4+build(15E65)&version=11020201&pass_ticket=JxdNVNrS%2BerOsvJdjWQGHAqgDkV2%2FmL9OHAETsCT%2Bvp0%2B%2FLiXasOwpgYIsgQQn8O)[PPT](http://www.stuq.org/ppt/frame_show/659/4c79d4c7eb2061f8790b5e7e6fe42703#/1)
+* [新浪微博iOS客户端架构与优化之路](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112273&idx=1&sn=893a66a04e541a99b7bc4d7cf227e2f7#rd)
+* [Weex详解：移动端高性能动态化方案](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112231&idx=1&sn=4578ff1009ee774093c45a3d8c19dd58#rd)
+* [覃超：Facebook iOS App技术演化十年之路](http://www.infoq.com/cn/articles/evolution-of-facebook-ios-app-ten-years-technology)
+* [天弘基金移动App客户端架构优化之路](http://blog.csdn.net/yaoyu/article/details/70184539)
+* [Service Oriented 的 iOS 应用架构](http://tech.glowing.com/cn/service-oriented-ios-architecture/)
+* [猿题库 iOS 客户端架构设计](http://gracelancy.com/blog/2016/01/06/ape-ios-arch-design/)
+* [QCon旧金山演讲总结：阿里无线技术架构演进](http://www.infoq.com/cn/articles/alibaba-mobile-infrastructure)
+* [斗米客户端的架构思想](http://blog.linzihong.com/2017/07/27/framework/)
+
+
+## 组件化参考
+
+> 组件是比模块更小的功能单位，不具备业务属性，只处理基础通用的问题，类似于工具箱。比如我们给 `NSString` 写的 `Category` 提供 base64 编码解码功能，给 `NSDate` 写的` Category` 做日期格式化等等。
+
+> 模块较之组件粒度更大一些，另外最重要的区别是带有业务属性，和业务场景相关联。比如购物车模块，注册登录模块，支付模块等等，模块往往会对一些通用的组件产生依赖。
+
+* [iOS 组件化方案](http://www.mrpeak.cn/blog/module/)
+* [饿了么移动 APP 的架构演进](https://www.jianshu.com/p/2141fb0dc62c)
+* [携程移动 App 架构优化之旅](http://www.infoq.com/cn/articles/ctrip-app-architecture?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
+* [蜂鸟商家版 iOS 组件化 / 模块化实践总结](http://www.cocoachina.com/cms/wap.php?action=article&id=21967)
+* [CocoaPods 公有库](https://www.jianshu.com/p/8111873cfaa9)
+* [iOS 项目组件化搭建](https://www.jianshu.com/p/66b63f56b2d5) 私有库
+* [蘑菇街 App 的组件化之路](http://limboy.me/tech/2016/03/10/mgj-components.html)
+* [蘑菇街 App 的组件化之路·续](http://limboy.me/tech/2016/03/14/mgj-components-continued.html)
+* [iOS 组件化方案探索](http://blog.cnbang.net/tech/3080/)
+* [糯米移动组件架构演进之路](http://chuansong.me/n/320688951236)
+* [滴滴的组件化实践与优化](http://www.infoq.com/cn/articles/xiaojukeji-component-practice-and-optimization)
+* [豆瓣App的模块化实践](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112821&idx=1&sn=2987ba2c9d68e3982e795d9eeb15f82b&chksm=844c6ca8b33be5be42e673ff2a9087628b0d9fab5e5a403d4bd346b134f4ffe110e423967c3e&scene=0#rd)
+* [iOS App组件化开发实践](http://www.infoq.com/cn/articles/ios-app-component-development-practice)
+* [58 同城 iOS 客户端组件化演变历程](http://mp.weixin.qq.com/s/PbOh-l0E4bD3HoKj0GzYWQ)
+* [手机淘宝客户端架构探索实践](https://yq.aliyun.com/articles/129)
+* [京东iOS客户端组件管理实践](http://www.infoq.com/cn/articles/jd-ios-component-management?utm_source=articles_about_mobile&utm_medium=link&utm_campaign=mobile)
+* [iOS 组件化 —— 路由设计思路分析](https://www.jianshu.com/p/76da56b3bd55)
+* [组件化架构漫谈](https://www.jianshu.com/p/67a6004f6930)
+
+### IM架构梳理
+
+* [IM 开发者社区](http://www.52im.net/forum.php?mod=collection&op=all)
+* [IM架构梳理](http://blog.csdn.net/skymingst/article/details/49448717)
+* [58到家消息系统设计与开发实践](https://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=402441278&idx=1&sn=af82781e3e6b694d82ac8454dbe3ae67&scene=0&key=710a5d99946419d9ebeb6a76103f5b3c9a2a96d61dd040e7eaacca508005e842656a35d9b9664ec603be12ce0c3f25c7&ascene=0&uin=MjY1NTg0NzMyMQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=TlXzGHRFhCo4eytB1hbIW0fFZq50RM%2BdZKQ7eajgE1C8Lc0aRV7IIgbSt6S4h5eZ)
+* [im协议设计选型（上）](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=205775353&idx=1&sn=ecc1f32ec9585f2c7672a27dfbc726ca&scene=1&srcid=0317WNL1c9K3dhx6rqsrhXL5&key=710a5d99946419d970963f96a056ab527d7e0a5ec70e2094cbb32922797076e77c9282e8ead417792c53ca5798beac51&ascene=0&uin=MjY1NTg0NzMyMQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=TlXzGHRFhCo4eytB1hbIW0fFZq50RM%2BdZKQ7eajgE1C8Lc0aRV7IIgbSt6S4h5eZ)
+* [webim如何保证消息的可靠投递](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=205034544&idx=1&sn=26bbbf4a49ae6b6c4b8c3cba7f79764f&scene=1&srcid=0317zhrXNGEHs2T4xAjbCoeO&key=710a5d99946419d9f10782b19962c97c88912b052aadce02ef6e5d82a2b2814aa055d499a22072c468f7c1d3f085cc8a&ascene=0&uin=MjY1NTg0NzMyMQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=TlXzGHRFhCo4eytB1hbIW0fFZq50RM%2BdZKQ7eajgE1C8Lc0aRV7IIgbSt6S4h5eZ)
+* [webim如何用轮询保证消息绝对实时](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=205001346&idx=1&sn=fd87cc010bf4548589c9fabea80c4cad&scene=1&srcid=0317oohatukhxTbBwWHKP6cU&key=710a5d99946419d9708e602d966c3a50e34f09ca848c5b3bf380b79bc6b34ad6e84062ed43a22333531a6525cc8fa07d&ascene=0&uin=MjY1NTg0NzMyMQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=TlXzGHRFhCo4eytB1hbIW0fFZq50RM%2BdZKQ7eajgE1C8Lc0aRV7IIgbSt6S4h5eZ)
+* [一套简洁的即时通信 (IM) 系统](https://mp.weixin.qq.com/s?__biz=MjM5MzA0ODkyMA==&mid=405991976&idx=1&sn=4bf8982f2dc2ea2df62c312e4fe508f4&scene=0&key=710a5d99946419d98e3fd2dc46318f0db3ec6994c949bcf1ed7aa9792993c67eb1388d95f0019d30c30a407b14211064&ascene=0&uin=MjY1NTg0NzMyMQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=TlXzGHRFhCo4eytB1hbIW0fFZq50RM%2BdZKQ7eajgE1C8Lc0aRV7IIgbSt6S4h5eZ)
+* [微博与im消息实现对比[随想]](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=205117508&idx=1&sn=71eecf04581e68deee4a44f7786309f5&scene=1&srcid=0317jpSQhhxbYvM2Kz6vlhOK&key=710a5d99946419d9c798c52d8b5dd4f67c1c4b144bb07217906e72260d353ac92559a0451d7548f74cc70ca9e0223637&ascene=0&uin=MjY1NTg0NzMyMQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=TlXzGHRFhCo4eytB1hbIW0fFZq50RM%2BdZKQ7eajgE1C8Lc0aRV7IIgbSt6S4h5eZ)
+
+### 实战学习
+最后推荐些可以帮助理解实战的开源项目：
+
+* [V2EX - V2EX iOS客户端，已上线项目](https://github.com/singro/v2ex)
+* [Firox-IOS - Firox iOS客户端，用Swift写的](https://github.com/mozilla/firefox-ios)
+* [Telegram - 一个非常牛XXX的开源社交项目](https://github.com/peter-iakovlev/Telegram)
+* [网易云信开源UI组件](https://github.com/netease-im/NIM_iOS_Demo)
+
+
+
+

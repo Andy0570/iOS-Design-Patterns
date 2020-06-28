@@ -17,6 +17,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    
+    NSArray *array1 = [[NSArray alloc] initWithObjects:@1,@2,@3, nil];
+    NSArray *array2 = array1.copy;
+    
 }
 
 

@@ -25,7 +25,9 @@
 
 * 单一职责原则（SRP）：就一个类而言，应该仅有一个引起它变化的原因。 
 * 开放-封闭原则（OCP）：是说软件实体（类、模块、函数等等）应该可以拓展，但是不可修改。
-*  依赖倒转原则（DIP）：A. 高层模块不应该依赖低层模块，两个都应该依赖抽象。B. 抽象不应该依赖细节，细节应该依赖抽象。 
+* 依赖倒转原则（DIP）：
+  *  高层模块不应该依赖低层模块，两个都应该依赖抽象；
+  *  抽象不应该依赖细节，细节应该依赖抽象。 
 * 里氏代换原则（LSP）：子类型必须能够替换掉它们的父类型。 
 * 迪米特法则（LOD）：如果两个类不必彼此直接通信，那么这两个类就不应当发生直接的相互作用。如果其中一个类需要调用另一个类的某一个方法的话，可以通过第三者转发这个调用。 
 * 合成/聚合复用原则（CARP）：尽量使用合成/聚合，尽量不要使用类继承。
@@ -38,7 +40,7 @@
 * 原型模式（Prototype），用原型实例指定创建对象的种类，并且通过拷贝这些原型创建新的对象。 
 * 工厂方法模式（Factory Method），定义一个用于创建对象的接口，让子类决定实例化哪一个类。工厂方法使一个类的实例化延迟到其子类。 
 * 抽象工厂模式（Abstract Factory），提供一个创建一系列相关或相互依赖对象的接口，而无需指定它们具体的类。 
-* 建造者模式/生成器模式（Builder），将一个复杂对象的构建与它的表示分离，使得同样的构建过程可以创建不同的表示。 
+* 生成器模式（Builder），将一个复杂对象的构建与它的表示分离，使得同样的构建过程可以创建不同的表示。 
 * 单例模式（Singleton），保证一个类仅有一个实例，并提供一个访问它的全局访问点。 
 
 ### 二、接口适配
@@ -85,10 +87,9 @@
 * [史上最全设计模式导学目录（完整版）](https://blog.csdn.net/lovelion/article/details/17517213)
 * [GitHub: Design Patterns implemented in Swift 5.0](https://github.com/ochococo/Design-Patterns-In-Swift)
 * [GitHub: Trip-to-iOS-Design-Patterns](https://github.com/skyming/Trip-to-iOS-Design-Patterns)
-* [iOS 中的 21 种设计模式](https://www.jianshu.com/p/6b302c7fe987)
-* [iOS 最实用的 13 种设计模式（全部有 github 代码）](https://www.jianshu.com/p/9c4a219e9cf9)
 * [iOS 设计模式详解 @Swift](https://juejin.im/post/5b827f0df265da43412875dd)
-* [iOS 设计模式 --- 访问者模式](https://my.oschina.net/fuzheng/blog/491258)
+
+  
 * [iOS 设计模式 --- 备忘录模式](https://my.oschina.net/fuzheng/blog/491651)
 * [iOS 设计模式 --- 命令模式](https://my.oschina.net/fuzheng/blog/492088)
 * [设计模式六大原则](https://www.jianshu.com/p/285dbd8cbd2a)

@@ -85,14 +85,12 @@
 * [设计模式](https://refactoringguru.cn/design-patterns)
 * [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html#)
 * [史上最全设计模式导学目录（完整版）](https://blog.csdn.net/lovelion/article/details/17517213)
-* [GitHub: Design Patterns implemented in Swift 5.0](https://github.com/ochococo/Design-Patterns-In-Swift)
 * [GitHub: Trip-to-iOS-Design-Patterns](https://github.com/skyming/Trip-to-iOS-Design-Patterns)
+* [GitHub: Design Patterns implemented in Swift 5.0](https://github.com/ochococo/Design-Patterns-In-Swift)
 * [iOS 设计模式详解 @Swift](https://juejin.im/post/5b827f0df265da43412875dd)
 * [设计模式六大原则](https://www.jianshu.com/p/285dbd8cbd2a)
+* [关于 23 种设计模式的有趣见解](https://www.hicss.net/23-design-patterns/)
 * [iOS 中的设计模式 开篇](https://a1049145827.github.io/2018/03/28/iOS中的设计模式-开篇/)
-* [iOS设计模式之观察者模式](http://blog.jobbole.com/55505/)
-* [iOS设计模式反思之单例模式的进化-非翻译](http://blog.jobbole.com/56439/)
-* [关于 23 种设计模式的有趣见解-非翻译](http://blog.jobbole.com/20496/)
 
 
 ### raywenderlich 系列文章
@@ -117,10 +115,11 @@
 * [OBJC中国：MVVM 介绍](https://www.objccn.io/issue-13-1/)
 * [不再对 MVVM 感到绝望](https://juejin.im/post/5a782d0d5188257a856f1dd7)
 * [MVVMFramework](https://github.com/lovemo/MVVMFramework)
-
+* [EasyIOS](https://github.com/zhuchaowe/EasyIOS) - A new generation of development framework based on Model-View-ViewModel
 
 ### 其它
 
+* [ObjC 中国期刊 - 架构](https://objccn.io/issues/)
 * [iOS Architecture Patterns Demystifying MVC, MVP, MVVM and VIPER](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 * [iOS 架构模式 - 简述 MVC, MVP, MVVM 和 VIPER (译)](https://segmentfault.com/a/1190000004680605)
 * [PPT: 5 iOS Architectures in 5 minutes](http://slides.com/borlov/arch/fullscreen#/)
@@ -130,11 +129,7 @@
 * [iOS 架构补完计划 -- 浅谈 MVC 及其衍生架构模式 (附简易图解)](https://www.jianshu.com/p/004075a47ed6#comments)
 * [medium: iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 * [唯一可行的 iOS 架构](https://juejin.im/post/5e435345518825493c7b4b43)
-* [objccn - 架构 - 强烈推荐](http://objccn.io/issue-13/)
 * [怎么面试架构师](http://www.cocoachina.com/programmer/20150617/12170.html)
-* [EasyIOS](https://github.com/zhuchaowe/EasyIOS)
-* [移动App架构设计](https://github.com/uxyheaven/NativeAppFrameworkDesign)
-* [探索 Swift 中的 MVC-N 模式](https://realm.io/cn/news/slug-marcus-zarra-exploring-mvcn-swift/?utm_source=tuicool&utm_medium=referral)
 
 
 ### InfoQ - iOS应用架构谈
@@ -144,6 +139,7 @@
 * [iOS应用架构谈（三）：网络层设计方案](http://casatwy.com/iosying-yong-jia-gou-tan-wang-luo-ceng-she-ji-fang-an.html)
 * [iOS应用架构谈（四）：本地持久化方案及动态部署](http://casatwy.com/iosying-yong-jia-gou-tan-ben-di-chi-jiu-hua-fang-an-ji-dong-tai-bu-shu.html)
 * [iOS应用架构谈（五）：组件化方案](http://casatwy.com/iOS-Modulization.html)
+
 
 ### App 架构设计实践
 * [饿了么移动APP的架构演进](https://www.sdk.cn/news/2023)
@@ -183,6 +179,7 @@
 * [京东iOS客户端组件管理实践](http://www.infoq.com/cn/articles/jd-ios-component-management?utm_source=articles_about_mobile&utm_medium=link&utm_campaign=mobile)
 * [iOS 组件化 —— 路由设计思路分析](https://www.jianshu.com/p/76da56b3bd55)
 * [组件化架构漫谈](https://www.jianshu.com/p/67a6004f6930)
+
 
 ### IM架构梳理
 

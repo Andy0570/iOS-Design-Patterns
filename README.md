@@ -89,7 +89,6 @@
 * [GitHub: Trip-to-iOS-Design-Patterns](https://github.com/skyming/Trip-to-iOS-Design-Patterns)
 * [iOS 设计模式详解 @Swift](https://juejin.im/post/5b827f0df265da43412875dd)
 
-  
 * [iOS 设计模式 --- 备忘录模式](https://my.oschina.net/fuzheng/blog/491651)
 * [iOS 设计模式 --- 命令模式](https://my.oschina.net/fuzheng/blog/492088)
 * [设计模式六大原则](https://www.jianshu.com/p/285dbd8cbd2a)

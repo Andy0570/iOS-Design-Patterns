@@ -88,9 +88,6 @@
 * [GitHub: Design Patterns implemented in Swift 5.0](https://github.com/ochococo/Design-Patterns-In-Swift)
 * [GitHub: Trip-to-iOS-Design-Patterns](https://github.com/skyming/Trip-to-iOS-Design-Patterns)
 * [iOS 设计模式详解 @Swift](https://juejin.im/post/5b827f0df265da43412875dd)
-
-* [iOS 设计模式 --- 备忘录模式](https://my.oschina.net/fuzheng/blog/491651)
-* [iOS 设计模式 --- 命令模式](https://my.oschina.net/fuzheng/blog/492088)
 * [设计模式六大原则](https://www.jianshu.com/p/285dbd8cbd2a)
 * [iOS 中的设计模式 开篇](https://a1049145827.github.io/2018/03/28/iOS中的设计模式-开篇/)
 * [iOS设计模式之观察者模式](http://blog.jobbole.com/55505/)

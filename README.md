@@ -117,6 +117,8 @@
 * [MVVMFramework](https://github.com/lovemo/MVVMFramework)
 * [EasyIOS](https://github.com/zhuchaowe/EasyIOS) - A new generation of development framework based on Model-View-ViewModel
 
+
+
 ### 其它
 
 * [ObjC 中国期刊 - 架构](https://objccn.io/issues/)
@@ -130,6 +132,7 @@
 * [medium: iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 * [唯一可行的 iOS 架构](https://juejin.im/post/5e435345518825493c7b4b43)
 * [怎么面试架构师](http://www.cocoachina.com/programmer/20150617/12170.html)
+* [[译] iOS app 实用架构](https://xiaozhuanlan.com/topic/5718043296)
 
 
 ### InfoQ - iOS应用架构谈

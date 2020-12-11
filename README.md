@@ -201,8 +201,5 @@
 * [V2EX - V2EX iOS客户端，已上线项目](https://github.com/singro/v2ex)
 * [Firox-IOS - Firox iOS客户端，用Swift写的](https://github.com/mozilla/firefox-ios)
 * [Telegram - 一个非常牛XXX的开源社交项目](https://github.com/peter-iakovlev/Telegram)
-* [网易云信开源UI组件](https://github.com/netease-im/NIM_iOS_Demo)
-
-
 
 

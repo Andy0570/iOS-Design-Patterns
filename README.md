@@ -93,15 +93,6 @@
 * [iOS 中的设计模式 开篇](https://a1049145827.github.io/2018/03/28/iOS中的设计模式-开篇/)
 
 
-### raywenderlich 系列文章
-
-* [raywenderlich: Design Patterns on iOS using Swift – Part 1/2](https://www.raywenderlich.com/477-design-patterns-on-ios-using-swift-part-1-2)
-* [raywenderlich: Design Patterns on iOS using Swift – Part 2/2](https://www.raywenderlich.com/476-design-patterns-on-ios-using-swift-part-2-2)
-* [[译] 使用 Swift 的 iOS 设计模式（第一部分）](https://juejin.cn/post/6844903730320506893)
-* [[译] 使用 Swift 的 iOS 设计模式（第二部分）](https://juejin.cn/post/6844903741766795277)
-* [[译] iOS 设计模式进阶](https://juejin.cn/post/6844903772804628494)
-
-
 ## 架构参考
 
 > 不管我们决定使用什么样的架构，最终的目标都是使测试变得更简单。因此写代码之前我们要根据这一原则进行思考。我们强调如何直观的进行责任分离。此外，保持这种思维模式，架构的设计就会变得很清晰、合理，我们就不会再陷入琐碎的细节。

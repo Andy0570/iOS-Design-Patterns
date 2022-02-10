@@ -97,6 +97,10 @@
 
 > 不管我们决定使用什么样的架构，最终的目标都是使测试变得更简单。因此写代码之前我们要根据这一原则进行思考。我们强调如何直观的进行责任分离。此外，保持这种思维模式，架构的设计就会变得很清晰、合理，我们就不会再陷入琐碎的细节。
 
+
+
+* [awesome-ios-architecture](https://github.com/onmyway133/awesome-ios-architecture)
+
 ### MVC
 
 * [A Better MVC](https://davedelong.com/blog/2017/11/06/a-better-mvc-part-1-the-problems/)

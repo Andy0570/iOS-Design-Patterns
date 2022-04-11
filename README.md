@@ -123,6 +123,7 @@
 * [iOS 架构模式 - 简述 MVC, MVP, MVVM 和 VIPER (译)](https://segmentfault.com/a/1190000004680605)
 * [PPT: 5 iOS Architectures in 5 minutes](http://slides.com/borlov/arch/fullscreen#/)
 * [Blurring the Lines Between MVVM and VIPER](https://medium.com/developermind/blurring-the-lines-between-mvvm-and-viper-dcb3dc9815ac)
+* [iOS 应用架构谈 组件化方案](https://casatwy.com/iOS-Modulization.html)
 * [iOS应用架构现状分析](http://mrpeak.cn/blog/ios-arch/)
 * [iOS 架构模式——MV(X) 的理解与实战](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652559742&idx=1&sn=3d07af5249de773bd7553ba2b0a2e642&chksm=bcd29c708ba51566d51ec2004142a70d17cfebb49ac7ff9037339bba41a212c43919c43c3716&mpshare=1&scene=1&srcid=0414so4GOyUBEVNGRMYe444d%23rd)
 * [iOS 架构补完计划 -- 浅谈 MVC 及其衍生架构模式 (附简易图解)](https://www.jianshu.com/p/004075a47ed6#comments)

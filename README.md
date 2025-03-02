@@ -91,6 +91,10 @@
 * [设计模式六大原则](https://www.jianshu.com/p/285dbd8cbd2a)
 * [关于 23 种设计模式的有趣见解](https://www.hicss.net/23-design-patterns/)
 * [iOS 中的设计模式 开篇](https://a1049145827.github.io/2018/03/28/iOS中的设计模式-开篇/)
+* [**Factory Method and Abstract Factory in Swift and iOS Universe**](https://betterprogramming.pub/factory-method-and-abstract-factory-in-swift-and-ios-universe-47c716667287)
+* [Using the factory pattern to avoid shared state in Swift](https://www.swiftbysundell.com/articles/using-the-factory-pattern-to-avoid-shared-state-in-swift/)
+
+
 
 
 ## 架构参考
